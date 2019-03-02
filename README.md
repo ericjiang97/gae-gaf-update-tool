@@ -1,4 +1,4 @@
-# gae-waf-update-tool
+# Google App Engine GAF Update Tool
 
 A Shell Script/CLI Tool to automatically update Google App Engine's Application Firewall Entries
 
